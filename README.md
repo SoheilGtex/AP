@@ -8,7 +8,7 @@ The repository will be **updated weekly** as new assignments are completed.
 ---
 
 ## Course Information
-- **Course Title:** Algorithm & Programming (AP)  
+- **Course Title:** AP
 - **University:** Kharazmi University  
 - **Student Name:** Soheil Salmani  
 - **Student ID:** 4032011020  
@@ -22,8 +22,8 @@ AP-Course/
 ├─ README.md
 ├─ LICENSE
 ├─ Ap-Assignment-2/
-│  ├─ part1_basics.py
-│  ├─ part2_advanced.py
+│  ├─ part1.py
+│  ├─ part2.py
 │  └─ ...
 ├─ Ap-Assignment-3/
 │  ├─ part1.py
@@ -38,26 +38,12 @@ AP-Course/
 
 ---
 
-## Description
-All programs are written in **Python** and follow the logic and constraints specified in each assignment.  
-When required, **built-in Python functions** (like `max()`, `min()`, `sum()`, etc.) are intentionally avoided to practice the fundamental logic behind algorithms.
-
----
-
-## Goals
-- Improve understanding of **basic programming principles**.  
-- Practice **loop structures, conditions, and algorithmic logic**.  
-- Emphasize **clarity and correctness** of code.  
-- Create a clean, organized, and educational repository for AP coursework.
-
----
-
 ## How to Run
 Make sure you have **Python 3.10+** installed.
 
 To run any assignment file:
 ```bash
-python Ap-Assignment-2/part1_basics.py
+python Ap-Assignment-2/part1.py
 ```
 
 Or for another:

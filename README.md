@@ -54,7 +54,7 @@ python Ap-Assignment-3/part2.py
 ---
 
 ## License
-This project is licensed under the **MIT License** — see the `LICENSE` file for details.  
+This repo is licensed under the **MIT License** — see the `LICENSE` file for details.  
 You are free to use or modify the code for learning, provided that credit is given to the original author.
 
 ---
